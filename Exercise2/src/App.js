@@ -8,9 +8,7 @@ import './App.css';
 class App extends React.Component {
   constructor(props)
   {
-    /* You should call super(props) before any other statement. 
-       Otherwise, this.props will be undefined in the constructor, which can lead to bugs.
-    */
+   
     super(props);
 
     this.state = {
@@ -22,9 +20,7 @@ class App extends React.Component {
       ]
     };
     
-    /*setTimeout(() => {
-      this.setState({ items:[...this.state.items, {id: 5, value: "carrots", qty: 5} ]}); 
-    }, 2000); */
+   
   }
 
   render()
