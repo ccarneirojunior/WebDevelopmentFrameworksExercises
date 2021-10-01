@@ -4,7 +4,7 @@ import ShoppingList from './components/ShoppingList';
 import styles from './App.module.css';
 import './App.css';
 
-/* A ES6 class style stateful component for the shopping list application */
+
 class App extends React.Component {
   constructor(props)
   {
