@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple Pencil (2nd Generation)",
+      "author": "Apple",
+      "type": "Devices",
+      "price": 150.37,
+      "rating": 4.5,
+      "image": "product1.jpg",
+      "promos": [
+        "Best Hard Drive ever"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Seagate Portable 2TB External Hard Drive Portable HDD",
+      "author": "Seagate",
+      "type": "External Hard Drive",
+      "price": 62.99,
+      "rating": 4,
+      "image": "product2.jpg",
+      "promos": [
+        "Best Hard Drive ever"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Roku Streaming Stick+ | HD/4K/HDR",
+      "author": "Roku Streaming ",
+      "type": "Hardware",
+      "price": 34.99,
+      "rating": 5,
+      "image": "product3.jpg",
+      "promos": [
+        "Best Streaming Stickever"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Logitech C920x HD Pro Webcam",
+      "author": "Logitech",
+      "type": "Webcam",
+      "price": 52.99,
+      "rating": 5,
+      "image": "product4.jpg",
+      "promos": [
+        "Best webcam ever"
+      ]
+    }
+  ]
+}
